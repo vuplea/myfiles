@@ -1,0 +1,251 @@
+﻿CPU,PerfIndex
+Intel(R) Core(TM) i5-14500 (20 cores),11.42
+Intel(R) Core(TM) i5-14500T (20 cores),11.42
+Intel(R) Core(TM) i7-14700 (28 cores),11.42
+13th Gen Intel(R) Core(TM) i9-13950HX (32 cores),11.34
+13th Gen Intel(R) Core(TM) i7-13850HX (28 cores),11.34
+13th Gen Intel(R) Core(TM) i5-13500T (20 cores),11.34
+13th Gen Intel(R) Core(TM) i5-13600HX (20 cores),11.34
+13th Gen Intel(R) Core(TM) i5-13500 (20 cores),11.34
+13th Gen Intel(R) Core(TM) i9-13900 (32 cores),11.34
+13th Gen Intel(R) Core(TM) i7-13700 (24 cores),11.34
+13th Gen Intel(R) Core(TM) i5-13400 (16 cores),11.34
+AMD EPYC 9374F 32-Core Processor                (4 cores),10.92
+12th Gen Intel(R) Core(TM) i5-12500T (12 cores),10.92
+12th Gen Intel(R) Core(TM) i9-12950HX (24 cores),10.92
+12th Gen Intel(R) Core(TM) i5-12600HX (16 cores),10.92
+12th Gen Intel(R) Core(TM) i5-12500 (12 cores),10.92
+12th Gen Intel(R) Core(TM) i7-12850HX (24 cores),10.92
+12th Gen Intel(R) Core(TM) i7-12700 (20 cores),10.92
+12th Gen Intel(R) Core(TM) i5-12400 (12 cores),10.92
+12th Gen Intel(R) Core(TM) i3-12100 (8 cores),10.92
+12th Gen Intel(R) Core(TM) i7-12700T (20 cores),10.92
+13th Gen Intel(R) Core(TM) i5-13420H (12 cores),10.58
+13th Gen Intel(R) Core(TM) i7-13800H (20 cores),10.58
+13th Gen Intel(R) Core(TM) i9-13900H (20 cores),10.58
+Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz (8 cores),10.58
+13th Gen Intel(R) Core(TM) i7-13700H (20 cores),10.58
+AMD Ryzen 5 PRO 5650GE with Radeon Graphics     (12 cores),10.5
+13th Gen Intel(R) Core(TM) i5-1350P (16 cores),10.21
+13th Gen Intel(R) Core(TM) i7-1370P (20 cores),10.21
+13th Gen Intel(R) Core(TM) i7-1360P (16 cores),10.21
+13th Gen Intel(R) Core(TM) i5-1340P (16 cores),10.21
+12th Gen Intel(R) Core(TM) i7-12800H (20 cores),10.19
+12th Gen Intel(R) Core(TM) i5-12450H (12 cores),10.19
+12th Gen Intel(R) Core(TM) i7-12700H (20 cores),10.19
+12th Gen Intel(R) Core(TM) i5-12500H (16 cores),10.19
+Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz (4 cores),10.08
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz (4 cores),9.88
+Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz (4 cores),9.84
+13th Gen Intel(R) Core(TM) i5-1335U (12 cores),9.83
+13th Gen Intel(R) Core(TM) i7-1365U (12 cores),9.83
+13th Gen Intel(R) Core(TM) i5-1345U (12 cores),9.83
+13th Gen Intel(R) Core(TM) i7-1355U (12 cores),9.83
+12th Gen Intel(R) Core(TM) i5-1250P (16 cores),9.83
+12th Gen Intel(R) Core(TM) i7-1270P (16 cores),9.83
+13th Gen Intel(R) Core(TM) i5-1334U (12 cores),9.83
+12th Gen Intel(R) Core(TM) i7-1260P (16 cores),9.83
+12th Gen Intel(R) Core(TM) i5-1240P (16 cores),9.83
+11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz (8 cores),9.66
+11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz (4 cores),9.66
+12th Gen Intel(R) Core(TM) i5-1235U (12 cores),9.46
+12th Gen Intel(R) Core(TM) i5-1245U (12 cores),9.46
+12th Gen Intel(R) Core(TM) i7-1265U (12 cores),9.46
+AMD EPYC 7763 64-Core Processor                 (4 cores),9.46
+AMD EPYC 7763 64-Core Processor                 (8 cores),9.46
+AMD EPYC 7763 64-Core Processor                 (16 cores),9.46
+AMD EPYC 7571 (4 cores),9.46
+12th Gen Intel(R) Core(TM) i7-1255U (12 cores),9.46
+12th Gen Intel(R) Core(TM) i3-1215U (8 cores),9.46
+AMD EPYC 7543 32-Core Processor                 (4 cores),9.46
+Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz (12 cores),9.41
+11th Gen Intel(R) Core(TM) i5-11500H @ 2.90GHz (12 cores),9.34
+Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz (12 cores),9.11
+Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz (4 cores),9.11
+Intel(R) Xeon(R) Gold 6242R CPU @ 3.10GHz (4 cores),9.11
+Intel(R) Xeon(R) Gold 6346 CPU @ 3.10GHz (4 cores),9.11
+Intel(R) Xeon(R) Gold 6242R CPU @ 3.10GHz (8 cores),9.11
+AMD Ryzen 5 PRO 5675U with Radeon Graphics      (12 cores),9.1
+AMD Ryzen 5 PRO 7530U with Radeon Graphics      (12 cores),9.1
+AMD Ryzen 5 PRO 5650U with Radeon Graphics      (12 cores),9.1
+AMD Ryzen 5 7530U with Radeon Graphics          (12 cores),9.1
+AMD Ryzen 5 PRO 4650U with Radeon Graphics (12 cores),9.1
+AMD Ryzen 5 PRO 8540U w/ Radeon 740M Graphics   (12 cores),9.1
+AMD Ryzen 5 5500U with Radeon Graphics          (12 cores),9.1
+AMD Ryzen 7 PRO 5850U with Radeon Graphics      (16 cores),9.1
+AMD Ryzen 5 Pro 7535U with Radeon Graphics      (12 cores),9.1
+AMD Ryzen 3 3250U with Radeon Graphics          (4 cores),9.1
+AMD Ryzen 7 PRO 8840U w/ Radeon 780M Graphics   (16 cores),9.1
+AMD Ryzen 7 PRO 6850U with Radeon Graphics      (16 cores),9.1
+AMD Ryzen 5 PRO 7540U w/ Radeon 740M Graphics   (12 cores),9.1
+AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics   (16 cores),9.1
+Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz (8 cores),9.04
+Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz (4 cores),9.04
+11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz (8 cores),9.02
+Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz (4 cores),8.82
+Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz (8 cores),8.82
+Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz (4 cores),8.82
+Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz (4 cores),8.82
+Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz (12 cores),8.78
+Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz (4 cores),8.78
+Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz (4 cores),8.78
+AMD EPYC 7R13 Processor (4 cores),8.74
+AMD EPYC-Rome-v4 Processor (no XSAVES) (4 cores),8.74
+Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz (16 cores),8.53
+Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz (12 cores),8.53
+Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz (4 cores),8.53
+Intel(R) Xeon(R) Gold 6326 CPU @ 2.90GHz (4 cores),8.53
+Intel(R) Xeon(R) Platinum 8375C CPU @ 2.90GHz (4 cores),8.53
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz (4 cores),8.51
+Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz (4 cores),8.51
+Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz (4 cores),8.51
+Intel(R) Core(TM) i5-8600 CPU @ 3.10GHz (6 cores),8.51
+Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz (6 cores),8.4
+Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz (8 cores),8.4
+WMIFailed,8.4
+11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz (8 cores),8.37
+11th Gen Intel(R) Core(TM) i9-11950H @ 2.60GHz (16 cores),8.37
+Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz (4 cores),8.23
+Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz (6 cores),8.23
+Intel(R) Core(TM) Ultra 5 135H (18 cores),8.23
+Intel(R) Core(TM) Ultra 7 165H (22 cores),8.23
+Intel(R) Xeon(R) Gold 6342 CPU @ 2.80GHz (4 cores),8.23
+Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz (8 cores),8.23
+Intel(R) Core(TM) Ultra 7 155H (22 cores),8.23
+Intel(R) Core(TM) Ultra 5 125H (18 cores),8.23
+Intel(R) Xeon(R) CPU @ 2.80GHz (4 cores),8.23
+Intel(R) Xeon(R) Gold 6342 CPU @ 2.80GHz (8 cores),8.23
+Intel(R) Xeon(R) Gold 6242 CPU @ 2.80GHz (4 cores),8.23
+Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz (16 cores),8.23
+Intel(R) Xeon(R) Platinum 8362 CPU @ 2.80GHz (4 cores),8.23
+Intel(R) Core(TM) Ultra 9 185H (22 cores),8.23
+Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz (6 cores),8.12
+11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz (16 cores),8.05
+11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz (16 cores),8.05
+Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz (4 cores),7.94
+Intel(R) Xeon(R) Gold 6258R CPU @ 2.70GHz (4 cores),7.94
+Intel(R) Core(TM) i7-10850H CPU @ 2.70GHz (12 cores),7.94
+Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz (4 cores),7.94
+Intel(R) Xeon(R) Gold 6150 CPU @ 2.70GHz (4 cores),7.94
+Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz (8 cores),7.94
+11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz (8 cores),7.73
+Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz (6 cores),7.68
+Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz (4 cores),7.64
+Intel(R) Core(TM) Ultra 5 135U (14 cores),7.64
+Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz (4 cores),7.64
+Intel(R) Xeon(R) Gold 6142 CPU @ 2.60GHz (4 cores),7.64
+Intel(R) Xeon(R) Platinum 8462Y+ (4 cores),7.64
+Intel(R) Core(TM) Ultra 7 165U (14 cores),7.64
+Intel Xeon Processor (Icelake) (6 cores),7.64
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz (12 cores),7.64
+Intel(R) Xeon(R) Gold 6240 CPU @ 2.60GHz (4 cores),7.64
+Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz (4 cores),7.64
+Intel(R) Core(TM) i5-10400H CPU @ 2.60GHz (8 cores),7.64
+Intel Xeon Processor (Icelake) (4 cores),7.64
+Intel Xeon Processor (Cascadelake) (16 cores),7.64
+Intel(R) Core(TM) Ultra 7 155U (14 cores),7.64
+Intel(R) Core(TM) Ultra 5 125U (14 cores),7.64
+Intel(R) Xeon(R) Silver 4416+ (4 cores),7.64
+Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz (8 cores),7.64
+Intel(R) Xeon(R) Gold 6442Y (4 cores),7.64
+Intel(R) Xeon(R) Platinum 8488C (4 cores),7.64
+Intel(R) Xeon(R) Platinum 8473C (4 cores),7.64
+Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz (4 cores),7.64
+Intel Xeon Processor (Cascadelake) (4 cores),7.64
+Intel(R) Xeon(R) Gold 6132 CPU @ 2.60GHz (4 cores),7.64
+Intel(R) Xeon(R) Platinum 8358P CPU @ 2.60GHz (4 cores),7.64
+Intel(R) Xeon(R) Gold 6414U (8 cores),7.64
+Intel Xeon Processor (Cascadelake) (8 cores),7.64
+11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz (16 cores),7.41
+Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz (4 cores),7.35
+Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz (4 cores),7.35
+Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz (4 cores),7.35
+Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz (4 cores),7.35
+Intel(R) Core(TM) i5-7500T CPU @ 2.70GHz (4 cores),7.18
+Intel(R) Xeon(R) Gold 6336Y CPU @ 2.40GHz (4 cores),7.06
+Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz (4 cores),7.06
+Intel(R) Xeon(R) Platinum 8260 CPU @ 2.40GHz (4 cores),7.06
+Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz (4 cores),7.06
+Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz (4 cores),7.06
+Intel(R) Core(TM) i5-9400H CPU @ 2.50GHz (8 cores),7
+Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz (4 cores),6.92
+Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz (12 cores),6.76
+Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (4 cores),6.76
+Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz (4 cores),6.76
+Intel(R) Xeon(R) CPU E7-8880 v3 @ 2.30GHz (4 cores),6.76
+Intel(R) Xeon(R) Gold 5218 CPU @ 2.30GHz (4 cores),6.76
+Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz (4 cores),6.76
+Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz (8 cores),6.72
+Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz (4 cores),6.65
+Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz (12 cores),6.59
+Intel(R) Xeon(R) Gold 5320 CPU @ 2.20GHz (4 cores),6.47
+Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz (4 cores),6.47
+Intel(R) Xeon(R) Gold 5220R CPU @ 2.20GHz (4 cores),6.47
+Intel(R) Xeon(R) CPU E5-2420 v2 @ 2.20GHz (4 cores),6.47
+Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz (4 cores),6.38
+Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz (8 cores),6.31
+Intel(R) Xeon(R) Platinum 8176 CPU @ 2.10GHz (4 cores),6.17
+Intel(R) Xeon(R) Gold 5318Y CPU @ 2.10GHz (8 cores),6.17
+Intel(R) Xeon(R) Gold 5218R CPU @ 2.10GHz (4 cores),6.17
+Intel(R) Xeon(R) Gold 6252 CPU @ 2.10GHz (4 cores),6.17
+Intel(R) Xeon(R) Gold 6252 CPU @ 2.10GHz (8 cores),6.17
+Intel(R) Xeon(R) Gold 6130 CPU @ 2.10GHz (4 cores),6.17
+Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz (4 cores),6.17
+Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz (6 cores),6.16
+Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz (4 cores),6.12
+AMD Ryzen 7 3700X 8-Core Processor              (2 cores),6
+Intel(R) Core(TM) i7-10700T CPU @ 2.00GHz (16 cores),5.88
+Intel(R) Core(TM) i5-10400T CPU @ 2.00GHz (12 cores),5.88
+Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz (6 cores),5.76
+Intel(R) Core(TM) i3-8145U CPU @ 2.10GHz (4 cores),5.76
+Intel(R) Xeon(R) Gold 6246 CPU @ 3.30GHz (2 cores),5.54
+AMD EPYC 7763 64-Core Processor                 (2 cores),5.41
+AMD EPYC 7571 (2 cores),5.41
+Intel(R) Core(TM) i7-10610U CPU @ 1.80GHz (8 cores),5.29
+Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz (8 cores),5.29
+Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (8 cores),5.21
+Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz (2 cores),5.21
+Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz (8 cores),5.21
+Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz (2 cores),5.04
+Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz (2 cores),5.04
+Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz (8 cores),5
+AMD EPYC 7R13 Processor (2 cores),4.99
+Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz (8 cores),4.94
+Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz (8 cores),4.94
+Intel(R) Xeon(R) Platinum 8268 CPU @ 2.90GHz (2 cores),4.87
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz (8 cores),4.7
+Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz (2 cores),4.7
+Intel(R) Xeon(R) Gold 6242 CPU @ 2.80GHz (2 cores),4.7
+Intel(R) Xeon(R) Gold 6342 CPU @ 2.80GHz (2 cores),4.7
+Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (8 cores),4.66
+Intel(R) Core(TM) i5-8400T CPU @ 1.70GHz (6 cores),4.66
+Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz (2 cores),4.54
+Intel(R) Xeon(R) Gold 6258R CPU @ 2.70GHz (2 cores),4.54
+Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (8 cores),4.39
+Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz (8 cores),4.39
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz (8 cores),4.39
+Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz (2 cores),4.37
+Intel(R) Xeon(R) Gold 6458Q (2 cores),4.37
+Intel(R) Xeon(R) Gold 6240 CPU @ 2.60GHz (2 cores),4.37
+Intel(R) Xeon(R) Platinum 8488C (2 cores),4.37
+Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz (2 cores),4.37
+Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz (2 cores),4.37
+INTEL(R) XEON(R) GOLD 6526Y (2 cores),4.37
+Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz (2 cores),4.37
+Intel(R) Xeon(R) Gold 6132 CPU @ 2.60GHz (2 cores),4.37
+Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz (2 cores),4.2
+Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz (2 cores),4.2
+Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz (2 cores),4.2
+Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz (2 cores),4.03
+Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz (2 cores),4.03
+Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz (2 cores),4.03
+Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz (2 cores),3.86
+Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (2 cores),3.86
+Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz (2 cores),3.86
+11th Gen Intel(R) Core(TM) i5-1140G7 @ 1.10GHz (8 cores),3.54
+Intel(R) Xeon(R) Gold 6238 CPU @ 2.10GHz (2 cores),3.53
+Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz (8 cores),3.46
+Intel(R) Core(TM) i7-10810U CPU @ 1.10GHz (12 cores),3.23
+Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz (4 cores),3.19
+Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz (8 cores),2.66
+Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz (1 cores),2.42
